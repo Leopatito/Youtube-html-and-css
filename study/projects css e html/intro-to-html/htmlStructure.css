@@ -1,0 +1,59 @@
+.buy{
+    background-color: rgb(255,216,20);
+    color: black;
+    font-size: 15px;
+    height: 50px;
+    width: 100px;
+    transition:background-color 0.15s,
+     color 0.15s;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+.buy:hover{
+   background-color: rgb(204, 207, 9);
+}
+.buy:active{
+    opacity: 0.7;      
+}
+.cart{
+    background-color: rgb(235, 118, 10);
+    color: black;
+    font-size: 15px;
+    height: 50px;
+    width: 100px;
+    transition:background-color 0.15s,
+     color 0.15s;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.cart:hover{
+   background-color: rgb(245, 149, 6);
+}
+.cart:active{
+    opacity: 0.7;      
+}
+.a{
+    color: blue;
+}
+a:active{
+    opacity: 0.8;
+}
+.nike{
+    font-weight: bold;
+    font-size: 20px;
+}
+.green{
+    color:green
+}
+.delivery{
+    font-weight: bold;
+}
+
+
+
+
