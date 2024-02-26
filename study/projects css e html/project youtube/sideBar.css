@@ -1,0 +1,14 @@
+.side-bar{
+    position: fixed;
+    top: 50px;
+    left:0;
+    bottom: 0;
+    width: 72px;
+}
+.side-bar-link{
+    height: 147px;
+    background-color: white;
+}
+.side-bar-link:hover{
+    background-color: gray;
+}
