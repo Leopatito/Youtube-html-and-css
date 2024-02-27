@@ -6,9 +6,22 @@
     width: 72px;
 }
 .side-bar-link{
-    height: 147px;
+    height: 146px;
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
 }
 .side-bar-link:hover{
-    background-color: gray;
+    background-color: rgb(211, 211, 211);
 }
+.side-bar img{
+    height: 30px;
+}
+.side-bar-link div{
+    font-family: Roboto,Arial;
+    font-size: 10px;
+}
+
