@@ -4,3 +4,5 @@ adverb = input("digite um advérbio:")
 print("rosas são "+ str(adj))
 print(str(noun)+ " são violetas")
 print("e o mundo está fazendo "+ str(adverb))
+
+
