@@ -152,7 +152,7 @@
 .youtube-app-icon-container
 .notification-icon-container{
     position: relative;
-    display: flex;  
+    display: flex;
     justify-content: center;
     align-items: center;
 }
